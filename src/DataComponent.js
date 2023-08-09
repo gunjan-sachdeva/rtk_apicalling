@@ -11,7 +11,7 @@ const DataComponent = () => {
   }, [dispatch]);
 
   return (
-    <div>
+    <div className='ss'>
       <h2>Fetched Data</h2>
       <ul>
         {data.map(item => (
