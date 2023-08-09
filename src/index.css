@@ -9,6 +9,10 @@ body {
 .ss{
   color: blueviolet;
 }
+.heading{
+  color: chartreuse;
+  background-color: black;
+}
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
